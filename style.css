@@ -124,7 +124,8 @@ button:hover {
 @media only screen and (max-width: 520px) {
 	.wrapper {
 		width: 90%;
-		height: 60%;
+		height: auto;
+		padding-bottom: 20px;
 	}
 	.headings,
 	.weather-info {
